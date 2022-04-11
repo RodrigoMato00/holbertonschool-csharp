@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/3293/Documents/holbertonschool-csharp/0x00-csharp-hello_world/0-hello_world/0-hello_world.csproj": {}
+    "/mnt/c/Users/3293/Documents/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/0-new_project.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/3293/Documents/holbertonschool-csharp/0x00-csharp-hello_world/0-hello_world/0-hello_world.csproj": {
+    "/mnt/c/Users/3293/Documents/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/0-new_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/3293/Documents/holbertonschool-csharp/0x00-csharp-hello_world/0-hello_world/0-hello_world.csproj",
-        "projectName": "0-hello_world",
-        "projectPath": "/mnt/c/Users/3293/Documents/holbertonschool-csharp/0x00-csharp-hello_world/0-hello_world/0-hello_world.csproj",
+        "projectUniqueName": "/mnt/c/Users/3293/Documents/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/0-new_project.csproj",
+        "projectName": "0-new_project",
+        "projectPath": "/mnt/c/Users/3293/Documents/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/0-new_project.csproj",
         "packagesPath": "/home/rodrigo/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/3293/Documents/holbertonschool-csharp/0x00-csharp-hello_world/0-hello_world/obj/",
+        "outputPath": "/mnt/c/Users/3293/Documents/holbertonschool-csharp/0x00-csharp-hello_world/0-new_project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rodrigo/.nuget/NuGet/NuGet.Config"
