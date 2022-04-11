@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tJjcT8u8YlKUyaH9Ra0JBBHO3KrHeTIft2glQx17F0s1DSWZQbOJev+FhmZNxfSGaMDHX+vbpX41PO2C1BOjMQ==",
+  "dgSpecHash": "uQ1Zkd8CQvqHX02iZXA49QcOLQBMHx6EKibAoHJagKT3tLX2S3XQVMK9tN0Yk0zAuKkbPjfidyyvH1TBdkSktQ==",
   "success": true,
-  "projectFilePath": "/mnt/c/Users/3293/Documents/holbertonschool-csharp/0x00-csharp-hello_world/1-new_project/1-new_project.csproj",
+  "projectFilePath": "/root/holbertonschool-csharp/0x00-csharp-hello_world/1-new_project/1-new_project.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
