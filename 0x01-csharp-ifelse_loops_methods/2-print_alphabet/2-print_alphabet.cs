@@ -6,7 +6,7 @@ class Program
     {
         for (char letter = 'a'; letter <= 'z'; letter++)
         {
-            Console.WriteLine(letter);
+            Console.Write(letter);
         }
     }
 }
