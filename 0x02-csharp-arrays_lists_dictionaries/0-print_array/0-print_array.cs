@@ -8,7 +8,7 @@ class Array
         if (size < 0)
         {
             Console.WriteLine("Size cannot be negative");
-            return null;
+            return (null);
         }
         int[] arr = new int[size];
         for (i = 0; i < size; i++)
