@@ -1,0 +1,15 @@
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net6.0/5-max_integer
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net6.0/5-max_integer.deps.json
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net6.0/5-max_integer.runtimeconfig.json
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net6.0/5-max_integer.dll
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net6.0/5-max_integer.pdb
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.csproj.AssemblyReference.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.AssemblyInfoInputs.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.AssemblyInfo.cs
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.csproj.CoreCompileInputs.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.dll
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/refint/5-max_integer.dll
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.pdb
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/5-max_integer.genruntimeconfig.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net6.0/ref/5-max_integer.dll
