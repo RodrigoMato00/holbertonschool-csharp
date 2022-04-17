@@ -1,0 +1,15 @@
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.csproj.AssemblyReference.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.AssemblyInfoInputs.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.AssemblyInfo.cs
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.csproj.CoreCompileInputs.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/net6.0/100-hello_error
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/net6.0/100-hello_error.deps.json
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/net6.0/100-hello_error.runtimeconfig.json
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/net6.0/100-hello_error.dll
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/net6.0/100-hello_error.pdb
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.dll
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/refint/100-hello_error.dll
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.pdb
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.genruntimeconfig.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/ref/100-hello_error.dll
