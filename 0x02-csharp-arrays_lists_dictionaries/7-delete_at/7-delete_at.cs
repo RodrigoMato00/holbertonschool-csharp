@@ -8,10 +8,11 @@ class List
         if (index < 0 || index > myList.Count - 1)
         {
             Console.WriteLine("Index is out of range");
-            return myList;
+            return(myList);
         }
 
-        myList.RemoveAt(index);
-        return myList;
+        myList.Remove(myList[index]);
+        return(myList);
     }
+}
 }
