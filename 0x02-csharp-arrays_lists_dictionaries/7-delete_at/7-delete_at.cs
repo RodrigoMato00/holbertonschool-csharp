@@ -15,4 +15,3 @@ class List
         return(myList);
     }
 }
-}
