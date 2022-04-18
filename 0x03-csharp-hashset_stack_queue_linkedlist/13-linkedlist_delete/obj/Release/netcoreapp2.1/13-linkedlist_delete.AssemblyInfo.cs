@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("0-unique_add")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("13-linkedlist_delete")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("0-unique_add")]
-[assembly: System.Reflection.AssemblyTitleAttribute("0-unique_add")]
+[assembly: System.Reflection.AssemblyProductAttribute("13-linkedlist_delete")]
+[assembly: System.Reflection.AssemblyTitleAttribute("13-linkedlist_delete")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
