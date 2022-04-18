@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/0-unique_add/0-unique_add.csproj",
-      "projectName": "0-unique_add",
-      "projectPath": "/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/0-unique_add/0-unique_add.csproj",
+      "projectUniqueName": "/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/1-common_elements.csproj",
+      "projectName": "1-common_elements",
+      "projectPath": "/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/1-common_elements.csproj",
       "packagesPath": "/home/rodrigo/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/0-unique_add/obj/",
+      "outputPath": "/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
