@@ -6,15 +6,12 @@ class Dictionary
     public static string BestScore(Dictionary<string, int> myList)
     {
         string bP = "None";
-        int bS = 0;
-        foreach (KeyValuePair<string, int> player in myList)
+
+        foreach (KeyValuePair<string, int> item in myList.OrderBy(key => key.Value))
         {
-            if (player.Value > bS)
-            {
-                bP = player.Key;
-                bS = player.Value;
-            }
+            bP = item.Key;
         }
-        return bP;
+        return(bP);
     }
+}
 }
