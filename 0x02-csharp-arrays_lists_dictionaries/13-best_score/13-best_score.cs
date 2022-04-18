@@ -7,6 +7,8 @@ class Dictionary
     {
         string bP = "";
         int bS = 0;
+        if (myList.Count == 0)
+			return "None";
         foreach (KeyValuePair<string, int> player in myList)
         {
             if (player.Value > bS)
