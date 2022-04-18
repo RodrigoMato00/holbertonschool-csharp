@@ -1,0 +1,15 @@
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/net6.0/100-jagged_array.csproj.AssemblyReference.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/net6.0/100-jagged_array.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/net6.0/100-jagged_array.AssemblyInfoInputs.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/net6.0/100-jagged_array.AssemblyInfo.cs
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/net6.0/100-jagged_array.csproj.CoreCompileInputs.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/bin/Debug/net6.0/100-jagged_array
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/bin/Debug/net6.0/100-jagged_array.deps.json
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/bin/Debug/net6.0/100-jagged_array.runtimeconfig.json
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/bin/Debug/net6.0/100-jagged_array.dll
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/bin/Debug/net6.0/100-jagged_array.pdb
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/net6.0/100-jagged_array.dll
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/net6.0/refint/100-jagged_array.dll
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/net6.0/100-jagged_array.pdb
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/net6.0/100-jagged_array.genruntimeconfig.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/net6.0/ref/100-jagged_array.dll
