@@ -5,10 +5,8 @@ class Dictionary
 {
     public static string BestScore(Dictionary<string, int> myList)
     {
-        string bP = "";
+        string bP = "None";
         int bS = 0;
-        if (myList.Count == 0)
-			return "None";
         foreach (KeyValuePair<string, int> player in myList)
         {
             if (player.Value > bS)
