@@ -5,12 +5,20 @@ class Dictionary
 {
     public static string BestScore(Dictionary<string, int> myList)
     {
-        string bP = "None";
+        int val = 0;
+        string ks = "";
 
-        foreach (KeyValuePair<string, int> item in myList.OrderBy(key => key.Value))
+        if (myList.Count == 0)
+			return "None";
+
+        foreach(KeyValuePair<string, int> key in myList)
         {
-            bP = item.Key;
+            if (key.Value >= val)
+            {
+                val = key.Value;
+                ks = key.Key;
+            }
         }
-        return(bP);
+        return ks;    
     }
 }
