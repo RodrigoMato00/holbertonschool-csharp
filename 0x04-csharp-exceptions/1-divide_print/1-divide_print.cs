@@ -10,7 +10,7 @@ class Int
         {
             c = a / b;
         }
-        catch (DivideByZeroException)
+        catch (System.DivideByZeroException)
         {
             Console.WriteLine("DivideByZeroException");
         }
@@ -19,4 +19,4 @@ class Int
             Console.WriteLine("{0} / {1} = {2}", a, b, c);
         }
     }
-} 
+}
