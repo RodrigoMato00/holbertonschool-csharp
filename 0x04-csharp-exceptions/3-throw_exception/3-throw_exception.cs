@@ -6,4 +6,4 @@ class Except
     {
         throw new Exception();
     }
-}        
+}      
