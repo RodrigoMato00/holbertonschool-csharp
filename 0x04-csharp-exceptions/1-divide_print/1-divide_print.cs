@@ -12,6 +12,7 @@ class Int
         }
         catch (System.DivideByZeroException)
         {
+            c = 0;
             Console.WriteLine("DivideByZeroException");
         }
         finally
