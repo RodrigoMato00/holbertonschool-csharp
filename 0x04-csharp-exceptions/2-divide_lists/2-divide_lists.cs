@@ -5,26 +5,25 @@ class List
 {
     public static List<int> Divide(List<int> list1, List<int> list2, int listLength)
     {
-        List<int> result = new List<int>();
+        List<int> pp = new List<int>();
 
         for (int i = 0; i < listLength; i++)
         {
             try
             {
-                result.Add(list1[i] / list2[i]);
+                pp.Add(list1[i] / list2[i]);
             }
-            catch (DivideByZeroException)
+            catch (System.DivideByZeroException)
             {
                 Console.WriteLine("Cannot divide by zero");
-                result.Add(0);
+                pp.Add(0);
             }
-            catch (ArgumentOutOfRangeException)
+            catch (System.ArgumentOutOfRangeException)
             {
                 Console.WriteLine("Out of range");
-                result.Add(0);
             }
         }
-        return result;
+        return pp;
     }
 }
      
