@@ -1,0 +1,5 @@
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x06-csharp-classes/0-enemy/obj/Debug/net6.0/0-enemy.csproj.AssemblyReference.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x06-csharp-classes/0-enemy/obj/Debug/net6.0/0-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x06-csharp-classes/0-enemy/obj/Debug/net6.0/0-enemy.AssemblyInfoInputs.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x06-csharp-classes/0-enemy/obj/Debug/net6.0/0-enemy.AssemblyInfo.cs
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x06-csharp-classes/0-enemy/obj/Debug/net6.0/0-enemy.csproj.CoreCompileInputs.cache
