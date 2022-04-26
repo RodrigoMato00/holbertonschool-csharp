@@ -1,0 +1,5 @@
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/obj/Debug/net6.0/1-dog.csproj.AssemblyReference.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/obj/Debug/net6.0/1-dog.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/obj/Debug/net6.0/1-dog.AssemblyInfoInputs.cache
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/obj/Debug/net6.0/1-dog.AssemblyInfo.cs
+/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/obj/Debug/net6.0/1-dog.csproj.CoreCompileInputs.cache
