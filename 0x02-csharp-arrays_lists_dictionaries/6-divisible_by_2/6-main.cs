@@ -14,14 +14,9 @@ class Program
         for (i = 0; i < myList.Count; i++)
         {
             if (result[i] == true)
-            {
                 Console.WriteLine(myList[i] + " is divisible by 2");
-            }
             else
-            {
                 Console.WriteLine(myList[i] + " is not divisible by 2");
-            }
         }
-        
     }
 }

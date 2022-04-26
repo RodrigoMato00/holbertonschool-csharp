@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O+ZdwrI3OkzVha2k10muQB5luIBD8nYEBKYLVrkaR7ye40ViVuho+WlN30AKVZ8+gpCNoVQgj0WSTDiKrNcyvw==",
+  "dgSpecHash": "mIf1mmxblvjdwOomLOKSGvrac5xMkTinptoAUQ44K7+9t0jLH4ef7rfEXapa6Wt6AkAw1MMtf0f8AeFEu3x7Gg==",
   "success": true,
-  "projectFilePath": "/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/5-max_integer.csproj",
+  "projectFilePath": "/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/6-divisible_by_2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

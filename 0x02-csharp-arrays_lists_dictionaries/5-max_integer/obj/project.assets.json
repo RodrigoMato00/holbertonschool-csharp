@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/5-max_integer.csproj",
-      "projectName": "5-max_integer",
-      "projectPath": "/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/5-max_integer.csproj",
+      "projectUniqueName": "/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/6-divisible_by_2.csproj",
+      "projectName": "6-divisible_by_2",
+      "projectPath": "/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/6-divisible_by_2.csproj",
       "packagesPath": "/home/rodrigo/.nuget/packages/",
       "outputPath": "/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/",
       "projectStyle": "PackageReference",
