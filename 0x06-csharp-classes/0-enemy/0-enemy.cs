@@ -1,10 +1,10 @@
-﻿using System
+﻿using System;
     
-namespace Enemies
-    
+namespace Enemies    
 {
-    //// <summary>public class Zombie</summary>
+    ///<summary>public class Zombie.</summary>
     public class Zombie
     {
+        
     }
 }
