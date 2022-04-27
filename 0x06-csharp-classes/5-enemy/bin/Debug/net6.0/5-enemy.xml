@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>public class Zombie.</summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary> Public Field.</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary> Public Constructor.</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary> Public Constructor.</summary>
+        </member>
+        <member name="F:Enemies.Zombie.name">
+            <summary> Private Field String name.</summary>
+        </member>
+        <member name="P:Enemies.Zombie.Name">
+            <summary> Public Rroperty whith methods (get) and (set). </summary>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary> Public Method GetHealth().</summary>
+        </member>
+        <member name="M:Enemies.Zombie.ToString">
+            <summary> Public .toString() override that prints the Zombie object’s attributes to stdout.</summary>
+        </member>
+    </members>
+</doc>
