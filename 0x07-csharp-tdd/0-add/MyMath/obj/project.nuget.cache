@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DrUEoyowzNQaVH0CPMvuBF/b99nlO4DgO/RTkABGHRbVDtoVMAhdzOApyZ6AIY8GpUBLV868qB0O8NTDoozo3A==",
+  "dgSpecHash": "2R1FXaXgXnRekH0tseBK/9wzS12K8f1iqDmi1vxTVHuLyWFj9kU1w4k4WTDqMN05KjY+ADIVnp9qv0tRa9ZnDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3293\\source\\repos\\holbertonschool-csharp\\0x07-csharp-tdd\\0-add\\MyMath\\MyMath.csproj",
+  "projectFilePath": "/mnt/c/Users/3293/source/repos/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/MyMath.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
