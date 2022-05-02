@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>7-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Shape">
+            <summary>
+            (C#)
+            </summary>
+        </member>
+        <member name="M:Shape.Area">
+            <summary>
+            (C#)
+            </summary>
+            <returns></returns>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
+        <member name="T:Rectangle">
+            <summary>
+            class Rectangle
+            </summary>
+        </member>
+        <member name="P:Rectangle.Width">
+            <summary>
+            public Rectangle int Width
+            </summary>
+        </member>
+        <member name="P:Rectangle.Height">
+            <summary>
+            public int Height
+            </summary>
+        </member>
+        <member name="M:Rectangle.Area">
+            <summary>
+            public method Area
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Rectangle.ToString">
+            <summary>
+            public method ToString
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
