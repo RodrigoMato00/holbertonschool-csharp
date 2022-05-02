@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>4-inherit</name>
+    </assembly>
+    <members>
+        <member name="T:Animal">
+            <summary>public class Animal</summary>
+        </member>
+        <member name="T:Dog">
+            <summary>public derived class Dog</summary>
+        </member>
+    </members>
+</doc>
