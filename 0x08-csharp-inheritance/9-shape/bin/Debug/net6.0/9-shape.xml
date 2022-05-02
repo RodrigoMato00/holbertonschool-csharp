@@ -55,7 +55,7 @@
         </member>
         <member name="M:Square.ToString">
             <summary>
-            public override string
+            public override string ToString
             </summary>
             <returns></returns>
         </member>

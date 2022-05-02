@@ -1,5 +1,4 @@
-﻿using System;
-/// <summary>
+﻿/// <summary>
 /// (C#)
 /// </summary>
 class Shape
@@ -89,12 +88,14 @@ class Square : Rectangle
             else
             {
                 this.size = value;
+                Width = size;
+                Height = size;
             }
 
         }
     }
     /// <summary>
-    /// public override string
+    /// public override string ToString
     /// </summary>
     /// <returns></returns>
     public override string ToString()
