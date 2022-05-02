@@ -17,17 +17,22 @@ class Obj
         TypeInfo j = i.GetTypeInfo();
         IEnumerable<PropertyInfo> p_List = j.GetProperties();
         IEnumerable<MethodInfo> my_List = j.GetMethods();
-
         System.Console.WriteLine("{0} Properties:", j.Name);
+        
         foreach (PropertyInfo pp in p_List)
         {
+            
             System.Console.WriteLine(pp.Name);
+        
         }
 
         System.Console.WriteLine("{0} Methods:", j.Name);
+        
         foreach (MethodInfo mm in my_List)
         {
+        
             System.Console.WriteLine(mm.Name);
+        
         }
 
 
